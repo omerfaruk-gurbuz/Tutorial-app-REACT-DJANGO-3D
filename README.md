@@ -1,6 +1,15 @@
-# API Base URLs
+![ezgif com-video-to-gif (12)](https://github.com/Omeko-FG/Tutorial-app-REACT-DJANGO-3D/assets/119002766/11940931-895e-4505-8002-92a80a5f96c1)
 
-## https://tutorial-api.fullstack.clarusway.com/
+# Full Stack Project
+<p>
+    1.Kullanıcı sisteme personel ekleyebilir.<BR/>
+    2.Kullanıcı sistemdeki personeli güncelleyebilir.<BR/>
+    3.Kullanıcı sistemden personel silebilir.<BR/>
+    4.Kullanıcı sistemdeki personelleri görüntüleyebilir.<BR/>
+<p/>
+
+## Kullandığım Teknolojiler
+<p> REACT - DJANGO DRF - BOOTSTARP - THREE.JS<p/>
 
 ### API ENDPOINTS
 
@@ -11,25 +20,3 @@
 - PATCH `tutorials/:id/` patch Tutorial by id
 - DELETE `tutorials/:id/` remove Tutorial by id
 - DELETE `tutorials/` remove all Tutorials
-
-# Deployed Frontend
-
-## https://tutorial.fullstack.clarusway.com/
-
-## How To Use Repo
-
-<!-- This is an example, please update according to your application -->
-
-To clone and run this application, you'll need [Git](https://git-scm.com)
-
-```JavaScript
-
-// Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-// Install dependencies
-    $ cd client
-    $ npm or yarn install
-// Run the app
-    $ npm or yarn start
-```
